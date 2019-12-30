@@ -19,6 +19,16 @@ a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
 # How To Use Page Blocks in Thrive Architect
 [How To Use Page Blocks in Thrive Architect](https://www.youtube.com/watch?v=j25YPfE6QzA)
 
+# Website Background Images: 4 Steps for Doing it Right
+[Website Background Images: 4 Steps for Doing it Right](https://www.youtube.com/watch?v=C55xYgwj0Hs)
+
+# How to Write Better Blog Posts Faster With Thrive Architect
+[How to Write Better Blog Posts Faster With Thrive Architect](https://www.youtube.com/watch?v=_nQ96EuQuHA)
+
+# Build a Homepage Like Marie Forleo, Gary Vaynerchuk, Ramit Sethi & Co.
+[Build a Homepage Like Marie Forleo, Gary Vaynerchuk, Ramit Sethi & Co.](https://www.youtube.com/watch?v=3cXDGV1Be_Q)
+
+
 
 
 
