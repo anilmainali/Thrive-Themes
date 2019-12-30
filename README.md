@@ -9,6 +9,10 @@ If you want to replicate the pages seen in our demo (example: Squared Demo Page)
 # Another Amazing Architect Update: November 2019
 [Another Amazing Architect Update: November 2019](https://thrivethemes.com/architect-november-2019/)
 
+# Smart Landing Pages:
+a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
+[Smart Landing Pages](https://thrivethemes.com/architect/smart-landing-pages/)
+
 # What’s New in Thrive Architect: December 2019
 [What’s New in Thrive Architect: December 2019](https://thrivethemes.com/architect-december-2019/)
 
