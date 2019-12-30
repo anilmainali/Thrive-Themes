@@ -16,5 +16,9 @@ a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
 # What’s New in Thrive Architect: December 2019
 [What’s New in Thrive Architect: December 2019](https://thrivethemes.com/architect-december-2019/)
 
+# How To Use Page Blocks in Thrive Architect
+[How To Use Page Blocks in Thrive Architect](https://www.youtube.com/watch?v=j25YPfE6QzA)
+
+
 
 
