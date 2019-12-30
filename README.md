@@ -32,6 +32,12 @@ a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
 [Content Patterns: Write Better Blog Posts, Faster](https://www.youtube.com/watch?v=Acfdn-CTytM)
 
 
+# Free WordPress Hosting On Google Cloud Platform! After 1 year, it costs a few cents a month!
+
+[Free WordPress Hosting On Google Cloud Platform! After 1 year, it costs a few cents a month!](https://www.youtube.com/watch?v=cG9kv5-5bPI)
+
+
+
 
 
 
