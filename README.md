@@ -28,6 +28,11 @@ a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
 # Build a Homepage Like Marie Forleo, Gary Vaynerchuk, Ramit Sethi & Co.
 [Build a Homepage Like Marie Forleo, Gary Vaynerchuk, Ramit Sethi & Co.](https://www.youtube.com/watch?v=3cXDGV1Be_Q)
 
+# Content Patterns: Write Better Blog Posts, Faster
+[Content Patterns: Write Better Blog Posts, Faster](https://www.youtube.com/watch?v=Acfdn-CTytM)
+
+
+
 
 
 
