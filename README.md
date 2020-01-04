@@ -39,6 +39,10 @@ a Revolutionary New Way of Creating Landing Pages on Your WordPress Site
 
 [Free WordPress Hosting On Google Cloud Platform! After 1 year, it costs a few cents a month!](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 
+# Are Online Courses Doomed in 2020?
+
+[Are Online Courses Doomed in 2020?](https://www.youtube.com/watch?v=ulS_hG9uY_w)
+
 
 
 
