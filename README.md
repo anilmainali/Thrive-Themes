@@ -1,5 +1,8 @@
 # Thrive-Themes
 
+# Make Better Blog Posts Faster With Thrive Architect & Content Blocks
+[Make Better Blog Posts Faster With Thrive Architect & Content Blocks](https://www.youtube.com/watch?v=g24g-s0Ga6c)
+
 # Generate Thrive Themes Page Templates
 
 If you want to replicate the pages seen in our demo (example: Squared Demo Page) you can do that in a few easy steps.
